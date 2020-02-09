@@ -10,3 +10,5 @@ sbtVersion   := "1.2.6"
 //bucketSuffix := "era7.com"
 
 libraryDependencies += "org.kohsuke" % "github-api" % "1.92"
+
+libraryDependencies += "com.sun.activation" % "javax.activation" % "1.2.0"
